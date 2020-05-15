@@ -4,6 +4,12 @@ This document outlines the specifications for the Triton-Mask developed at UC Sa
 
 <img src="https://github.com/WeibelLab/Triton-Mask/blob/master/images/Triton-Mask.jpeg" height="200"/> <img src="https://github.com/WeibelLab/Triton-Mask/blob/master/images/Triton-Mask_Model.png" height="200"/> 
 
+*Square sterilization wraps + Aluminum Strip + Velcro (add link to WIKI page)
+*Butterfly-shaped sterilization wraps + Metal Nose Piece + Elastic Bands (add link to WIKI page)
+*Filtration Test (add link to WIKI page)
+*Face Fit test (add link to WIKI page)
+*Glogerm test (add link to WIKI page)
+
 ## Disclaimer
 
 This product is a surgical mask. Materials that contact the body are polypropylene Halyard Sterilization Wrap, polypropylene Medline Sterilization Wrap, and elastic bands. This surgical mask meets Class I or Class II flammability requirements per 16 CFR 1610. Use this surgical mask with appropriate personal protective equipment per your institution’s standards. This product meets fluid resistance testing consistent with standard ASTM F1862 Standard Test Method for Resistance of Medical Face Masks to Penetration by Synthetic Blood.

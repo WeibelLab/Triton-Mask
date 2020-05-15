@@ -2,6 +2,10 @@
 
 This document outlines the specifications for the Triton-Mask developed at UC San Diego as a possible solution for PPE shortage during the COVID-19 pandemic. The Triton-Mask is an Emergency-Use Mask with a high-grade filtration and fit, comparable to standard N-95 respirators.
 
+### Jump To:
+* [Assembly Instructions](https://github.com/WeibelLab/Triton-Mask/wiki/Assembly-Instructions)
+* [Quantitative Testing](https://github.com/WeibelLab/Triton-Mask/wiki/Quantitative-Protection-Testing)
+
 <img src="https://github.com/WeibelLab/Triton-Mask/blob/master/images/Triton-Mask.jpeg" height="200"/> <img src="https://github.com/WeibelLab/Triton-Mask/blob/master/images/Triton-Mask_Model.png" height="200"/> 
 
 * Materials and Methods

@@ -4,11 +4,14 @@ This document outlines the specifications for the Triton-Mask developed at UC Sa
 
 <img src="https://github.com/WeibelLab/Triton-Mask/blob/master/images/Triton-Mask.jpeg" height="200"/> <img src="https://github.com/WeibelLab/Triton-Mask/blob/master/images/Triton-Mask_Model.png" height="200"/> 
 
-* Square sterilization wraps + Aluminum Strip + Velcro (add link to WIKI page)
-* Butterfly-shaped sterilization wraps + Metal Nose Piece + Elastic Bands (add link to WIKI page)
-* Filtration Test (add link to WIKI page)
-* Face Fit test (add link to WIKI page)
-* Glogerm test (add link to WIKI page)
+* Materials and Methods
+  * Square sterilization wraps + Aluminum Strip + Velcro (add link to WIKI page)
+  * Butterfly-shaped sterilization wraps + Metal Nose Piece + Elastic Bands (add link to WIKI page)
+
+* Product Testing Results
+  * Filtration Test (add link to WIKI page)
+  * Face Fit test (add link to WIKI page)
+  * Glogerm test (add link to WIKI page)
 
 ## Disclaimer
 

@@ -2,17 +2,21 @@
 
 This document outlines the specifications for the Triton-Mask developed at UC San Diego as a possible solution for PPE shortage during the COVID-19 pandemic. The Triton-Mask is an Emergency-Use Mask with a high-grade filtration and fit, comparable to standard N-95 respirators.
 
-<img src="/WeibelLab/Triton-Mask/blob/master/images/Triton-Mask.jpeg" height="200"/> <img src="/WeibelLab/Triton-Mask/blob/master/images/Triton-Mask_Model.png" height="200"/> 
-
 ### Jump To:
-* [Materials and Methods](/WeibelLab/Triton-Mask/wiki/Materials-and-Methods)
-  * [Square sterilization wraps + aluminum sheet](/WeibelLab/Triton-Mask/wiki/Materials)
-  * [Cut sterilization wraps into profile + attach metal nose piece + attach elastic bands](/WeibelLab/Triton-Mask/wiki/Assembly-Instructions)
+* [Assembly Instructions](https://github.com/WeibelLab/Triton-Mask/wiki/Assembly-Instructions)
+* [Quantitative Testing](https://github.com/WeibelLab/Triton-Mask/wiki/Quantitative-Protection-Testing)
+* [Download the Files](https://github.com/WeibelLab/Triton-Mask/tree/master/specs)
 
-* [Quantitative Testing Results](/WeibelLab/Triton-Mask/wiki/Quantitative-Protection-Testing)
-  * [Filtration Test](/WeibelLab/Triton-Mask/wiki/Filtration-Testing)
-  * [Face Fit Test](/WeibelLab/Triton-Mask/wiki/Fit-Testing)
-  * [GloGerm Test](/WeibelLab/Triton-Mask/wiki/GlowGerm-Testing)
+<img src="https://github.com/WeibelLab/Triton-Mask/blob/master/images/Triton-Mask.jpeg" height="200"/> <img src="https://github.com/WeibelLab/Triton-Mask/blob/master/images/Triton-Mask_Model.png" height="200"/> 
+
+* Materials and Methods
+  * Square sterilization wraps + Aluminum Strip + Velcro (add link to WIKI page)
+  * Butterfly-shaped sterilization wraps + Metal Nose Piece + Elastic Bands (add link to WIKI page)
+
+* Product Testing Results
+  * Filtration Test (add link to WIKI page)
+  * Face Fit test (add link to WIKI page)
+  * Glogerm test (add link to WIKI page)
 
 ## Disclaimer
 

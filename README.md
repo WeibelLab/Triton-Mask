@@ -5,6 +5,7 @@ This document outlines the specifications for the Triton-Mask developed at UC Sa
 ### Jump To:
 * [Assembly Instructions](https://github.com/WeibelLab/Triton-Mask/wiki/Assembly-Instructions)
 * [Quantitative Testing](https://github.com/WeibelLab/Triton-Mask/wiki/Quantitative-Protection-Testing)
+* [Download the Files](https://github.com/WeibelLab/Triton-Mask/tree/master/specs)
 
 <img src="https://github.com/WeibelLab/Triton-Mask/blob/master/images/Triton-Mask.jpeg" height="200"/> <img src="https://github.com/WeibelLab/Triton-Mask/blob/master/images/Triton-Mask_Model.png" height="200"/> 
 
